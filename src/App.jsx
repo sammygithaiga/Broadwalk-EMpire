@@ -5,10 +5,10 @@ import Footer from './components/Footer'
 function App() {
   return (
     <main>
-    <Header classname="mt"/>
+    <Header />
     <Footer/>
     </main>
   )
 }
 
-export default App
+export default App;
